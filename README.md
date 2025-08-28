@@ -1,2 +1,2 @@
 # projet-Master
-projet de soutenance de masyer
+projet de soutenance de master
